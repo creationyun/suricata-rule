@@ -1,0 +1,76 @@
+#1
+alert tcp any any -> any 80 (msg:"gilgil.net access"; content:"GET /"; content:"Host: "; content:"gilgil.net"; sid:10001; rev:1;)
+
+#2
+alert tcp any any -> any 80 (msg:"netflix.com access"; content:"GET /"; content:"Host: "; content:"netflix.com"; sid:10002; rev:1;)
+alert tls any any -> any 443 (msg:"netflix.com access (SSL/TLS)"; tls_sni; content:"netflix.com"; sid:10003; rev:1;)
+
+#3
+alert tcp any any -> any 80 (msg:"qt.io access"; content:"GET /"; content:"Host: "; content:"qt.io"; sid:10004; rev:1;)
+alert tcp any any -> any 443 (msg:"qt.io access (SSL/TLS)"; tls_sni; content:"qt.io"; sid:10005; rev:1;)
+
+#4
+alert tcp any any -> any 80 (msg:"google.com access"; content:"GET /"; content:"Host: "; content:"google.com"; sid:10006; rev:1;)
+alert tcp any any -> any 443 (msg:"google.com access (SSL/TLS)"; tls_sni; content:"google.com"; sid:10007; rev:1;)
+
+#5
+alert tcp any any -> any 80 (msg:"korea.ac.kr access"; content:"GET /"; content:"Host: "; content:"korea.ac.kr"; sid:10008; rev:1;)
+
+#6
+alert tcp any any -> any 80 (msg:"github.com access"; content:"GET /"; content:"Host: "; content:"github.com"; sid:10009; rev:1;)
+alert tcp any any -> any 443 (msg:"github.com access (SSL/TLS)"; tls_sni; content:"github.com"; sid:10010; rev:1;)
+
+#7
+alert tcp any any -> any 80 (msg:"midnightguidetohome.info access"; content:"GET /"; content:"Host: "; content:"midnightguidetohome.info"; sid:10011; rev:1;)
+alert tcp any any -> any 443 (msg:"midnightguidetohome.info access (SSL/TLS)"; tls_sni; content:"midnightguidetohome.info"; sid:10012; rev:1;)
+
+#8
+alert tcp any any -> any 80 (msg:"naver.com access"; content:"GET /"; content:"Host: "; content:"naver.com"; sid:10013; rev:1;)
+alert tcp any any -> any 443 (msg:"naver.com access (SSL/TLS)"; tls_sni; content:"naver.com"; sid:10014; rev:1;)
+
+#9
+alert tcp any any -> any 80 (msg:"stackoverflow.com access"; content:"GET /"; content:"Host: "; content:"stackoverflow.com"; sid:10015; rev:1;)
+alert tcp any any -> any 443 (msg:"stackoverflow.com access (SSL/TLS)"; tls_sni; content:"stackoverflow.com"; sid:10016; rev:1;)
+
+#10
+alert tcp any any -> any 80 (msg:"youtube.com access"; content:"GET /"; content:"Host: "; content:"youtube.com"; sid:10017; rev:1;)
+alert tcp any any -> any 443 (msg:"youtube.com access (SSL/TLS)"; tls_sni; content:"youtube.com"; sid:10018; rev:1;)
+
+#11
+alert tcp any any -> any 80 (msg:"frdb.wo.to access"; content:"GET /"; content:"Host: "; content:"frdb.wo.to"; sid:10019; rev:1;)
+
+#12
+alert tcp any any -> any 80 (msg:"kitribob.wiki access"; content:"GET /"; content:"Host: "; content:"kitribob.wiki"; sid:10020; rev:1;)
+alert tcp any any -> any 443 (msg:"kitribob.wiki access (SSL/TLS)"; tls_sni; content:"kitribob.wiki"; sid:10021; rev:1;)
+
+#13
+alert tcp any any -> any 80 (msg:"kitribob.kr access"; content:"GET /"; content:"Host: "; content:"kitribob.kr"; sid:10022; rev:1;)
+alert tcp any any -> any 443 (msg:"kitribob.kr access (SSL/TLS)"; tls_sni; content:"kitribob.kr"; sid:10023; rev:1;)
+
+#14
+alert tcp any any -> any 80 (msg:"daum.net access"; content:"GET /"; content:"Host: "; content:"daum.net"; sid:10024; rev:1;)
+alert tcp any any -> any 443 (msg:"daum.net access (SSL/TLS)"; tls_sni; content:"daum.net"; sid:10025; rev:1;)
+
+#15
+alert tcp any any -> any 80 (msg:"kakao.com access"; content:"GET /"; content:"Host: "; content:"kakao.com"; sid:10026; rev:1;)
+alert tcp any any -> any 443 (msg:"kakao.com access (SSL/TLS)"; tls_sni; content:"kakao.com"; sid:10027; rev:1;)
+
+#16
+alert tcp any any -> any 80 (msg:"namu.wiki access"; content:"GET /"; content:"Host: "; content:"namu.wiki"; sid:10028; rev:1;)
+alert tcp any any -> any 443 (msg:"namu.wiki access (SSL/TLS)"; tls_sni; content:"namu.wiki"; sid:10029; rev:1;)
+
+#17
+alert tcp any any -> any 80 (msg:"facebook.com access"; content:"GET /"; content:"Host: "; content:"facebook.com"; sid:10030; rev:1;)
+alert tcp any any -> any 443 (msg:"facebook.com access (SSL/TLS)"; tls_sni; content:"facebook.com"; sid:10031; rev:1;)
+
+#18
+alert tcp any any -> any 80 (msg:"instagram.com access"; content:"GET /"; content:"Host: "; content:"instagram.com"; sid:10032; rev:1;)
+alert tcp any any -> any 443 (msg:"instagram.com access (SSL/TLS)"; tls_sni; content:"instagram.com"; sid:10033; rev:1;)
+
+#19
+alert tcp any any -> any 80 (msg:"koreapas.com access"; content:"GET /"; content:"Host: "; content:"koreapas.com"; sid:10034; rev:1;)
+alert tcp any any -> any 443 (msg:"koreapas.com access (SSL/TLS)"; tls_sni; content:"koreapas.com"; sid:10035; rev:1;)
+
+#20
+alert tcp any any -> any 80 (msg:"president.go.kr access"; content:"GET /"; content:"Host: "; content:"president.go.kr"; sid:10036; rev:1;)
+

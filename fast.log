@@ -1,0 +1,332 @@
+01/12/2021-18:08:13.012326  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41878 -> 163.152.6.10:80
+01/12/2021-18:08:13.107679  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41878 -> 163.152.6.10:80
+01/12/2021-18:08:13.139535  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41890 -> 163.152.6.10:80
+01/12/2021-18:08:13.177425  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41888 -> 163.152.6.10:80
+01/12/2021-18:08:13.216135  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44986 -> 209.197.3.24:80
+01/12/2021-18:08:14.339802  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41888 -> 163.152.6.10:80
+01/12/2021-18:08:15.087608  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41888 -> 163.152.6.10:80
+01/12/2021-18:08:15.196070  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41878 -> 163.152.6.10:80
+01/12/2021-18:08:15.196156  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41890 -> 163.152.6.10:80
+01/12/2021-18:08:15.241585  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41890 -> 163.152.6.10:80
+01/12/2021-18:08:15.242567  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41878 -> 163.152.6.10:80
+01/12/2021-18:08:15.242732  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41926 -> 163.152.6.10:80
+01/12/2021-18:08:15.250306  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41928 -> 163.152.6.10:80
+01/12/2021-18:08:15.263440  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41930 -> 163.152.6.10:80
+01/12/2021-18:08:15.300700  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41926 -> 163.152.6.10:80
+01/12/2021-18:08:15.318157  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41878 -> 163.152.6.10:80
+01/12/2021-18:08:15.349178  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41928 -> 163.152.6.10:80
+01/12/2021-18:08:15.362354  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41888 -> 163.152.6.10:80
+01/12/2021-18:08:15.384242  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41930 -> 163.152.6.10:80
+01/12/2021-18:08:15.386981  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41878 -> 163.152.6.10:80
+01/12/2021-18:08:15.402261  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41888 -> 163.152.6.10:80
+01/12/2021-18:08:15.428596  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41890 -> 163.152.6.10:80
+01/12/2021-18:08:15.547533  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41930 -> 163.152.6.10:80
+01/12/2021-18:08:15.547781  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41934 -> 163.152.6.10:80
+01/12/2021-18:08:15.549910  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41928 -> 163.152.6.10:80
+01/12/2021-18:08:15.549997  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41888 -> 163.152.6.10:80
+01/12/2021-18:08:15.575713  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41890 -> 163.152.6.10:80
+01/12/2021-18:08:15.597832  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41926 -> 163.152.6.10:80
+01/12/2021-18:08:15.619912  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41878 -> 163.152.6.10:80
+01/12/2021-18:08:15.675814  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41890 -> 163.152.6.10:80
+01/12/2021-18:08:15.707768  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41888 -> 163.152.6.10:80
+01/12/2021-18:08:15.836104  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41888 -> 163.152.6.10:80
+01/12/2021-18:08:15.842506  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41930 -> 163.152.6.10:80
+01/12/2021-18:08:15.842528  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41928 -> 163.152.6.10:80
+01/12/2021-18:08:15.856117  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41890 -> 163.152.6.10:80
+01/12/2021-18:08:15.896317  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41926 -> 163.152.6.10:80
+01/12/2021-18:08:15.927880  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41888 -> 163.152.6.10:80
+01/12/2021-18:08:15.982700  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41928 -> 163.152.6.10:80
+01/12/2021-18:08:16.007111  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41878 -> 163.152.6.10:80
+01/12/2021-18:08:16.046781  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41926 -> 163.152.6.10:80
+01/12/2021-18:08:16.121172  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41930 -> 163.152.6.10:80
+01/12/2021-18:08:16.205820  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41890 -> 163.152.6.10:80
+01/12/2021-18:08:17.083370  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41928 -> 163.152.6.10:80
+01/12/2021-18:08:17.446758  [**] [1:10005:1] qt.io access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42374 -> 199.60.103.225:443
+01/12/2021-18:08:19.833816  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47136 -> 163.152.6.61:80
+01/12/2021-18:08:19.895627  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47136 -> 163.152.6.61:80
+01/12/2021-18:08:19.911640  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47138 -> 163.152.6.61:80
+01/12/2021-18:08:19.937363  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47140 -> 163.152.6.61:80
+01/12/2021-18:08:20.175534  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47140 -> 163.152.6.61:80
+01/12/2021-18:08:20.440490  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:47140 -> 163.152.6.61:80
+01/12/2021-18:08:23.280019  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41934 -> 163.152.6.10:80
+01/12/2021-18:08:24.187542  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41934 -> 163.152.6.10:80
+01/12/2021-18:08:45.183169  [**] [1:10007:1] google.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52504 -> 172.217.25.228:443
+01/12/2021-18:08:45.333443  [**] [1:10007:1] google.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52506 -> 172.217.25.228:443
+01/12/2021-18:08:45.603925  [**] [1:10007:1] google.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52510 -> 172.217.25.228:443
+01/12/2021-18:08:45.905831  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42742 -> 175.213.35.39:80
+01/12/2021-18:08:46.557940  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42756 -> 175.213.35.39:80
+01/12/2021-18:08:47.037170  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42742 -> 175.213.35.39:80
+01/12/2021-18:08:48.003302  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42742 -> 175.213.35.39:80
+01/12/2021-18:08:51.589746  [**] [1:10007:1] google.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52518 -> 172.217.25.228:443
+01/12/2021-18:08:52.124915  [**] [1:10003:1] netflix.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:55934 -> 52.36.238.206:443
+01/12/2021-18:08:52.795169  [**] [1:10003:1] netflix.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:55164 -> 44.234.232.238:443
+01/12/2021-18:08:55.839753  [**] [1:10003:1] netflix.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:37718 -> 35.164.118.134:443
+01/12/2021-18:08:55.848125  [**] [1:10003:1] netflix.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:37716 -> 35.164.118.134:443
+01/12/2021-18:08:56.387212  [**] [1:10007:1] google.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52552 -> 172.217.25.228:443
+01/12/2021-18:09:06.180940  [**] [1:10005:1] qt.io access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42450 -> 199.60.103.225:443
+01/12/2021-18:09:09.100043  [**] [1:10018:1] youtube.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52498 -> 172.217.26.14:443
+01/12/2021-18:09:11.298863  [**] [1:10031:1] facebook.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:49628 -> 31.13.76.35:443
+01/12/2021-18:09:16.212820  [**] [1:10007:1] google.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:39604 -> 172.217.24.142:443
+01/12/2021-18:09:16.290901  [**] [1:10007:1] google.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41372 -> 216.58.197.162:443
+01/12/2021-18:09:23.987922  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42126 -> 163.152.6.10:80
+01/12/2021-18:09:24.133548  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:45230 -> 209.197.3.24:80
+01/12/2021-18:09:25.149570  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42126 -> 163.152.6.10:80
+01/12/2021-18:09:25.487432  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42160 -> 163.152.6.10:80
+01/12/2021-18:09:25.488124  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42162 -> 163.152.6.10:80
+01/12/2021-18:09:25.517159  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42164 -> 163.152.6.10:80
+01/12/2021-18:09:25.518244  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42166 -> 163.152.6.10:80
+01/12/2021-18:09:25.519023  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42168 -> 163.152.6.10:80
+01/12/2021-18:09:25.662553  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42218 -> 163.152.6.10:80
+01/12/2021-18:09:30.898303  [**] [1:10010:1] github.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43964 -> 52.78.231.108:443
+01/12/2021-18:09:32.675410  [**] [1:10010:1] github.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54940 -> 13.209.163.61:443
+01/12/2021-18:09:34.869672  [**] [1:10010:1] github.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54944 -> 13.209.163.61:443
+01/12/2021-18:09:40.141091  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42126 -> 163.152.6.10:80
+01/12/2021-18:09:40.693067  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42214 -> 163.152.6.10:80
+01/12/2021-18:09:44.028478  [**] [1:10011:1] midnightguidetohome.info access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:51438 -> 35.224.193.36:80
+01/12/2021-18:09:44.400733  [**] [1:10012:1] midnightguidetohome.info access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42364 -> 35.224.193.36:443
+01/12/2021-18:09:45.747680  [**] [1:10012:1] midnightguidetohome.info access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42368 -> 35.224.193.36:443
+01/12/2021-18:09:45.775069  [**] [1:10012:1] midnightguidetohome.info access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42372 -> 35.224.193.36:443
+01/12/2021-18:09:45.789433  [**] [1:10012:1] midnightguidetohome.info access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42374 -> 35.224.193.36:443
+01/12/2021-18:09:45.817950  [**] [1:10012:1] midnightguidetohome.info access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42370 -> 35.224.193.36:443
+01/12/2021-18:09:51.450260  [**] [1:10013:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48470 -> 125.209.222.142:80
+01/12/2021-18:09:51.507746  [**] [1:10013:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:48474 -> 125.209.222.142:80
+01/12/2021-18:09:51.571762  [**] [1:10014:1] naver.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:58502 -> 125.209.222.142:443
+01/12/2021-18:09:53.223316  [**] [1:10014:1] naver.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:35050 -> 175.158.5.161:443
+01/12/2021-18:09:53.223467  [**] [1:10014:1] naver.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38144 -> 125.209.230.195:443
+01/12/2021-18:09:53.266510  [**] [1:10014:1] naver.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38550 -> 210.89.168.66:443
+01/12/2021-18:09:53.282342  [**] [1:10014:1] naver.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38548 -> 210.89.168.66:443
+01/12/2021-18:09:53.287697  [**] [1:10014:1] naver.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:57380 -> 175.158.0.135:443
+01/12/2021-18:09:53.325965  [**] [1:10014:1] naver.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38546 -> 210.89.168.66:443
+01/12/2021-18:09:53.327924  [**] [1:10014:1] naver.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38544 -> 210.89.168.66:443
+01/12/2021-18:09:53.327949  [**] [1:10014:1] naver.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:38542 -> 210.89.168.66:443
+01/12/2021-18:09:53.401159  [**] [1:10014:1] naver.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:59338 -> 110.93.147.5:443
+01/12/2021-18:10:12.650192  [**] [1:10015:1] stackoverflow.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53046 -> 151.101.65.69:80
+01/12/2021-18:10:13.331511  [**] [1:10016:1] stackoverflow.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53766 -> 151.101.65.69:443
+01/12/2021-18:10:21.519625  [**] [1:10018:1] youtube.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44378 -> 172.217.175.238:443
+01/12/2021-18:10:22.584109  [**] [1:10007:1] google.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42006 -> 216.58.197.237:443
+01/12/2021-18:10:34.085019  [**] [1:10020:1] kitribob.wiki access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33990 -> 172.67.156.67:80
+01/12/2021-18:10:34.118785  [**] [1:10021:1] kitribob.wiki access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43148 -> 172.67.156.67:443
+01/12/2021-18:10:34.129466  [**] [1:10021:1] kitribob.wiki access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43152 -> 172.67.156.67:443
+01/12/2021-18:10:34.137555  [**] [1:10020:1] kitribob.wiki access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36752 -> 104.28.26.243:80
+01/12/2021-18:10:43.113241  [**] [1:10022:1] kitribob.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50642 -> 211.115.80.131:80
+01/12/2021-18:10:43.256215  [**] [1:10022:1] kitribob.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50644 -> 211.115.80.131:80
+01/12/2021-18:10:43.299069  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36442 -> 211.115.80.131:443
+01/12/2021-18:10:43.921472  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36446 -> 211.115.80.131:443
+01/12/2021-18:10:43.925432  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36448 -> 211.115.80.131:443
+01/12/2021-18:10:43.933360  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36450 -> 211.115.80.131:443
+01/12/2021-18:10:43.933342  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36452 -> 211.115.80.131:443
+01/12/2021-18:10:43.934908  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36454 -> 211.115.80.131:443
+01/12/2021-18:10:43.948563  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36456 -> 211.115.80.131:443
+01/12/2021-18:10:44.018823  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36460 -> 211.115.80.131:443
+01/12/2021-18:10:44.018786  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36458 -> 211.115.80.131:443
+01/12/2021-18:10:44.054555  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36466 -> 211.115.80.131:443
+01/12/2021-18:10:44.054539  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36468 -> 211.115.80.131:443
+01/12/2021-18:10:44.070728  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36464 -> 211.115.80.131:443
+01/12/2021-18:10:44.122311  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36470 -> 211.115.80.131:443
+01/12/2021-18:10:44.149440  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36472 -> 211.115.80.131:443
+01/12/2021-18:10:44.229314  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36476 -> 211.115.80.131:443
+01/12/2021-18:10:44.229342  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36474 -> 211.115.80.131:443
+01/12/2021-18:10:44.243642  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36478 -> 211.115.80.131:443
+01/12/2021-18:10:44.290783  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36480 -> 211.115.80.131:443
+01/12/2021-18:10:44.322857  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36482 -> 211.115.80.131:443
+01/12/2021-18:10:44.335448  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36488 -> 211.115.80.131:443
+01/12/2021-18:10:44.335574  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36484 -> 211.115.80.131:443
+01/12/2021-18:10:44.341702  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36486 -> 211.115.80.131:443
+01/12/2021-18:10:44.410740  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36490 -> 211.115.80.131:443
+01/12/2021-18:10:44.423336  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36492 -> 211.115.80.131:443
+01/12/2021-18:10:44.468009  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36494 -> 211.115.80.131:443
+01/12/2021-18:10:44.467983  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36496 -> 211.115.80.131:443
+01/12/2021-18:10:44.475742  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36498 -> 211.115.80.131:443
+01/12/2021-18:10:44.518581  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36500 -> 211.115.80.131:443
+01/12/2021-18:10:44.563451  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36502 -> 211.115.80.131:443
+01/12/2021-18:10:44.764389  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36506 -> 211.115.80.131:443
+01/12/2021-18:10:44.783512  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36504 -> 211.115.80.131:443
+01/12/2021-18:10:44.902934  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36508 -> 211.115.80.131:443
+01/12/2021-18:10:44.902716  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36510 -> 211.115.80.131:443
+01/12/2021-18:10:44.918600  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36512 -> 211.115.80.131:443
+01/12/2021-18:10:45.071880  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36518 -> 211.115.80.131:443
+01/12/2021-18:10:45.524113  [**] [1:10023:1] kitribob.kr access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:36520 -> 211.115.80.131:443
+01/12/2021-18:10:52.152315  [**] [1:10024:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42692 -> 203.133.167.81:80
+01/12/2021-18:10:52.188523  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:55162 -> 203.133.167.81:443
+01/12/2021-18:10:52.408334  [**] [1:10024:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52492 -> 211.231.99.80:80
+01/12/2021-18:10:52.464429  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:57278 -> 211.231.99.80:443
+01/12/2021-18:10:53.195408  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:34370 -> 203.217.238.49:443
+01/12/2021-18:10:53.239950  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44782 -> 121.53.105.132:443
+01/12/2021-18:10:53.456353  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40360 -> 211.231.99.14:443
+01/12/2021-18:10:53.603493  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:57308 -> 211.231.99.80:443
+01/12/2021-18:10:53.700029  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:59746 -> 121.53.104.76:443
+01/12/2021-18:10:53.804513  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40368 -> 211.231.99.14:443
+01/12/2021-18:10:53.808865  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40370 -> 211.231.99.14:443
+01/12/2021-18:10:53.813593  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40372 -> 211.231.99.14:443
+01/12/2021-18:10:53.835158  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40374 -> 211.231.99.14:443
+01/12/2021-18:10:53.850321  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40376 -> 211.231.99.14:443
+01/12/2021-18:10:53.853607  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40378 -> 211.231.99.14:443
+01/12/2021-18:10:53.981553  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40380 -> 211.231.99.14:443
+01/12/2021-18:10:54.227850  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43688 -> 211.249.200.132:443
+01/12/2021-18:10:54.234176  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43686 -> 211.249.200.132:443
+01/12/2021-18:10:54.240852  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43684 -> 211.249.200.132:443
+01/12/2021-18:10:54.351327  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43690 -> 211.249.200.132:443
+01/12/2021-18:10:54.636383  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43692 -> 211.249.200.132:443
+01/12/2021-18:10:54.686998  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43954 -> 121.53.203.94:443
+01/12/2021-18:10:54.704147  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43952 -> 121.53.203.94:443
+01/12/2021-18:10:54.768706  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43958 -> 121.53.203.94:443
+01/12/2021-18:10:54.790051  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43956 -> 121.53.203.94:443
+01/12/2021-18:10:54.931764  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43972 -> 121.53.203.94:443
+01/12/2021-18:10:55.113362  [**] [1:10027:1] kakao.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:60966 -> 211.231.100.71:443
+01/12/2021-18:10:55.486660  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43976 -> 121.53.203.94:443
+01/12/2021-18:10:55.514923  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41626 -> 203.133.167.207:443
+01/12/2021-18:10:55.616288  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:43980 -> 121.53.203.94:443
+01/12/2021-18:10:55.616240  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:41630 -> 203.133.167.207:443
+01/12/2021-18:10:55.674076  [**] [1:10027:1] kakao.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:59816 -> 121.53.104.76:443
+01/12/2021-18:11:00.880667  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:57382 -> 211.231.99.80:443
+01/12/2021-18:11:00.934829  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:57384 -> 211.231.99.80:443
+01/12/2021-18:11:02.711653  [**] [1:10025:1] daum.net access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:57388 -> 211.231.99.80:443
+01/12/2021-18:11:04.138176  [**] [1:10026:1] kakao.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:57894 -> 211.249.221.27:80
+01/12/2021-18:11:04.620463  [**] [1:10027:1] kakao.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:59944 -> 121.53.216.28:443
+01/12/2021-18:11:04.629960  [**] [1:10027:1] kakao.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:54974 -> 121.53.104.157:443
+01/12/2021-18:11:16.140240  [**] [1:10029:1] namu.wiki access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:45426 -> 104.16.181.45:443
+01/12/2021-18:11:18.802580  [**] [1:10007:1] google.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52338 -> 172.217.175.66:443
+01/12/2021-18:11:37.672582  [**] [1:10031:1] facebook.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:55472 -> 157.240.215.35:443
+01/12/2021-18:11:38.142993  [**] [1:10031:1] facebook.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:55486 -> 157.240.215.35:443
+01/12/2021-18:11:47.771651  [**] [1:10033:1] instagram.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52256 -> 52.2.14.71:443
+01/12/2021-18:11:48.172686  [**] [1:10033:1] instagram.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53666 -> 157.240.215.174:443
+01/12/2021-18:11:51.019840  [**] [1:10033:1] instagram.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40694 -> 157.240.215.63:443
+01/12/2021-18:11:54.985850  [**] [1:10033:1] instagram.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:40696 -> 157.240.215.63:443
+01/12/2021-18:11:57.626772  [**] [1:10034:1] koreapas.com access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33938 -> 222.239.10.84:80
+01/12/2021-18:11:58.098421  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44788 -> 222.239.10.84:443
+01/12/2021-18:11:58.125429  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44786 -> 222.239.10.84:443
+01/12/2021-18:11:58.639310  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44794 -> 222.239.10.84:443
+01/12/2021-18:11:58.875018  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44796 -> 222.239.10.84:443
+01/12/2021-18:11:58.894684  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44798 -> 222.239.10.84:443
+01/12/2021-18:11:58.894718  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44802 -> 222.239.10.84:443
+01/12/2021-18:11:58.904627  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44804 -> 222.239.10.84:443
+01/12/2021-18:11:58.920263  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44800 -> 222.239.10.84:443
+01/12/2021-18:11:58.973178  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44806 -> 222.239.10.84:443
+01/12/2021-18:11:59.156623  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44808 -> 222.239.10.84:443
+01/12/2021-18:11:59.175113  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44812 -> 222.239.10.84:443
+01/12/2021-18:11:59.181490  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44810 -> 222.239.10.84:443
+01/12/2021-18:11:59.192255  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44816 -> 222.239.10.84:443
+01/12/2021-18:11:59.210292  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44814 -> 222.239.10.84:443
+01/12/2021-18:11:59.213769  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44818 -> 222.239.10.84:443
+01/12/2021-18:11:59.316636  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44820 -> 222.239.10.84:443
+01/12/2021-18:11:59.373287  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44824 -> 222.239.10.84:443
+01/12/2021-18:11:59.384371  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44826 -> 222.239.10.84:443
+01/12/2021-18:11:59.414832  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44822 -> 222.239.10.84:443
+01/12/2021-18:11:59.550201  [**] [1:10018:1] youtube.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33534 -> 216.58.197.142:443
+01/12/2021-18:11:59.555983  [**] [1:10018:1] youtube.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33532 -> 216.58.197.142:443
+01/12/2021-18:11:59.580782  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44840 -> 222.239.10.84:443
+01/12/2021-18:11:59.644260  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44844 -> 222.239.10.84:443
+01/12/2021-18:11:59.644282  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44842 -> 222.239.10.84:443
+01/12/2021-18:11:59.647313  [**] [1:10018:1] youtube.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33530 -> 216.58.197.142:443
+01/12/2021-18:11:59.650102  [**] [1:10018:1] youtube.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33536 -> 216.58.197.142:443
+01/12/2021-18:11:59.652627  [**] [1:10018:1] youtube.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33528 -> 216.58.197.142:443
+01/12/2021-18:11:59.664312  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53392 -> 222.239.10.83:443
+01/12/2021-18:11:59.664260  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53394 -> 222.239.10.83:443
+01/12/2021-18:11:59.664329  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53390 -> 222.239.10.83:443
+01/12/2021-18:11:59.664380  [**] [1:10018:1] youtube.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33538 -> 216.58.197.142:443
+01/12/2021-18:11:59.684819  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53388 -> 222.239.10.83:443
+01/12/2021-18:11:59.687715  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53386 -> 222.239.10.83:443
+01/12/2021-18:11:59.697321  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53384 -> 222.239.10.83:443
+01/12/2021-18:12:00.115605  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53404 -> 222.239.10.83:443
+01/12/2021-18:12:00.155330  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53408 -> 222.239.10.83:443
+01/12/2021-18:12:00.159226  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53406 -> 222.239.10.83:443
+01/12/2021-18:12:00.256077  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53410 -> 222.239.10.83:443
+01/12/2021-18:12:00.266841  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53412 -> 222.239.10.83:443
+01/12/2021-18:12:00.276635  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53414 -> 222.239.10.83:443
+01/12/2021-18:12:00.291300  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53416 -> 222.239.10.83:443
+01/12/2021-18:12:00.378058  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53420 -> 222.239.10.83:443
+01/12/2021-18:12:00.378088  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:53418 -> 222.239.10.83:443
+01/12/2021-18:12:00.522848  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44886 -> 222.239.10.84:443
+01/12/2021-18:12:00.530782  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44888 -> 222.239.10.84:443
+01/12/2021-18:12:01.270141  [**] [1:10007:1] google.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52590 -> 172.217.175.66:443
+01/12/2021-18:12:02.237774  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44904 -> 222.239.10.84:443
+01/12/2021-18:12:02.665211  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44906 -> 222.239.10.84:443
+01/12/2021-18:12:03.651545  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44908 -> 222.239.10.84:443
+01/12/2021-18:12:04.161477  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44910 -> 222.239.10.84:443
+01/12/2021-18:12:10.164903  [**] [1:10035:1] koreapas.com access (SSL/TLS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:44912 -> 222.239.10.84:443
+01/12/2021-18:12:11.715503  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:52116 -> 157.185.146.24:80
+01/12/2021-18:12:11.861889  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42714 -> 14.0.113.230:80
+01/12/2021-18:12:12.001235  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42714 -> 14.0.113.230:80
+01/12/2021-18:12:12.024407  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42716 -> 14.0.113.230:80
+01/12/2021-18:12:12.034697  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42718 -> 14.0.113.230:80
+01/12/2021-18:12:12.044643  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42720 -> 14.0.113.230:80
+01/12/2021-18:12:12.052176  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42722 -> 14.0.113.230:80
+01/12/2021-18:12:12.052342  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42716 -> 14.0.113.230:80
+01/12/2021-18:12:12.063886  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42724 -> 14.0.113.230:80
+01/12/2021-18:12:12.071876  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42714 -> 14.0.113.230:80
+01/12/2021-18:12:12.119153  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42722 -> 14.0.113.230:80
+01/12/2021-18:12:12.144865  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42716 -> 14.0.113.230:80
+01/12/2021-18:12:12.158220  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42714 -> 14.0.113.230:80
+01/12/2021-18:12:12.173398  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42720 -> 14.0.113.230:80
+01/12/2021-18:12:12.176137  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42718 -> 14.0.113.230:80
+01/12/2021-18:12:12.186807  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42724 -> 14.0.113.230:80
+01/12/2021-18:12:12.202711  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42714 -> 14.0.113.230:80
+01/12/2021-18:12:12.223312  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42718 -> 14.0.113.230:80
+01/12/2021-18:12:12.223661  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42722 -> 14.0.113.230:80
+01/12/2021-18:12:12.251244  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42716 -> 14.0.113.230:80
+01/12/2021-18:12:12.254268  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42720 -> 14.0.113.230:80
+01/12/2021-18:12:12.275135  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33090 -> 14.0.112.199:80
+01/12/2021-18:12:12.326614  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42722 -> 14.0.113.230:80
+01/12/2021-18:12:12.335016  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42714 -> 14.0.113.230:80
+01/12/2021-18:12:12.350251  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42724 -> 14.0.113.230:80
+01/12/2021-18:12:12.381088  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42720 -> 14.0.113.230:80
+01/12/2021-18:12:12.387066  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42718 -> 14.0.113.230:80
+01/12/2021-18:12:12.390643  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42722 -> 14.0.113.230:80
+01/12/2021-18:12:12.460104  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42714 -> 14.0.113.230:80
+01/12/2021-18:12:12.465398  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42724 -> 14.0.113.230:80
+01/12/2021-18:12:12.478105  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42716 -> 14.0.113.230:80
+01/12/2021-18:12:12.521246  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42718 -> 14.0.113.230:80
+01/12/2021-18:12:12.557258  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42720 -> 14.0.113.230:80
+01/12/2021-18:12:12.598532  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33090 -> 14.0.112.199:80
+01/12/2021-18:12:12.605929  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42722 -> 14.0.113.230:80
+01/12/2021-18:12:12.622233  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42714 -> 14.0.113.230:80
+01/12/2021-18:12:12.709327  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42718 -> 14.0.113.230:80
+01/12/2021-18:12:12.709641  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42714 -> 14.0.113.230:80
+01/12/2021-18:12:12.772826  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42720 -> 14.0.113.230:80
+01/12/2021-18:12:12.798651  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42718 -> 14.0.113.230:80
+01/12/2021-18:12:12.823185  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42722 -> 14.0.113.230:80
+01/12/2021-18:12:12.823396  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42714 -> 14.0.113.230:80
+01/12/2021-18:12:12.860067  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42724 -> 14.0.113.230:80
+01/12/2021-18:12:12.864374  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42716 -> 14.0.113.230:80
+01/12/2021-18:12:12.867343  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33090 -> 14.0.112.199:80
+01/12/2021-18:12:12.874123  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42718 -> 14.0.113.230:80
+01/12/2021-18:12:12.889942  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42720 -> 14.0.113.230:80
+01/12/2021-18:12:12.896475  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42714 -> 14.0.113.230:80
+01/12/2021-18:12:12.898735  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42724 -> 14.0.113.230:80
+01/12/2021-18:12:12.898787  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42716 -> 14.0.113.230:80
+01/12/2021-18:12:12.901946  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42718 -> 14.0.113.230:80
+01/12/2021-18:12:12.922908  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42724 -> 14.0.113.230:80
+01/12/2021-18:12:12.930002  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42720 -> 14.0.113.230:80
+01/12/2021-18:12:12.930033  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42718 -> 14.0.113.230:80
+01/12/2021-18:12:12.933268  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42716 -> 14.0.113.230:80
+01/12/2021-18:12:12.933213  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42722 -> 14.0.113.230:80
+01/12/2021-18:12:12.943323  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42724 -> 14.0.113.230:80
+01/12/2021-18:12:12.950195  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42720 -> 14.0.113.230:80
+01/12/2021-18:12:12.956474  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42722 -> 14.0.113.230:80
+01/12/2021-18:12:12.956568  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42716 -> 14.0.113.230:80
+01/12/2021-18:12:12.959587  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42718 -> 14.0.113.230:80
+01/12/2021-18:12:12.965167  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42714 -> 14.0.113.230:80
+01/12/2021-18:12:13.043244  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42716 -> 14.0.113.230:80
+01/12/2021-18:12:13.059920  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42722 -> 14.0.113.230:80
+01/12/2021-18:12:13.093104  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42720 -> 14.0.113.230:80
+01/12/2021-18:12:13.111607  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42718 -> 14.0.113.230:80
+01/12/2021-18:12:13.137066  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42724 -> 14.0.113.230:80
+01/12/2021-18:12:13.175227  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42714 -> 14.0.113.230:80
+01/12/2021-18:12:13.233569  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42716 -> 14.0.113.230:80
+01/12/2021-18:12:13.238102  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42722 -> 14.0.113.230:80
+01/12/2021-18:12:13.266986  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42720 -> 14.0.113.230:80
+01/12/2021-18:12:13.397493  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42722 -> 14.0.113.230:80
+01/12/2021-18:12:13.400142  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42716 -> 14.0.113.230:80
+01/12/2021-18:12:13.809764  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42722 -> 14.0.113.230:80
+01/12/2021-18:12:13.815197  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42720 -> 14.0.113.230:80
+01/12/2021-18:12:14.022263  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42720 -> 14.0.113.230:80
+01/12/2021-18:12:14.151994  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42722 -> 14.0.113.230:80
+01/12/2021-18:12:15.313723  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42720 -> 14.0.113.230:80
+01/12/2021-18:12:15.315901  [**] [1:10036:1] president.go.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42724 -> 14.0.113.230:80
+01/12/2021-18:12:30.210435  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42132 -> 163.152.6.10:80
+01/12/2021-18:12:30.210921  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42216 -> 163.152.6.10:80
+01/12/2021-18:12:30.212516  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42130 -> 163.152.6.10:80
+01/12/2021-18:12:30.212926  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42220 -> 163.152.6.10:80
+01/12/2021-18:12:30.213022  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42134 -> 163.152.6.10:80
+01/12/2021-18:12:30.213362  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42128 -> 163.152.6.10:80
+01/12/2021-18:12:30.214259  [**] [1:10008:1] korea.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:42222 -> 163.152.6.10:80
